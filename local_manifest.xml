@@ -5,11 +5,11 @@
  <remote name="Mozzaru" fetch="https://github.com/Mozzaru" />
  <remote name="LineageOS" fetch="https://github.com/LineageOS" />
  <remote name="clang" fetch="https://gitlab.com/Amritorock" />
- <remote name="Evolution-X" fetch="https://github.com/Evolution-X" />
+ <remote name="DerpFest-AOSP" fetch="https://github.com/DerpFest-AOSP" />
  <remote name="kdrag0n" fetch="https://github.com/kdrag0n" />
  
  <!--Trees-->
- <project path="device/xiaomi/markw" name="android_device_xiaomi_markw" remote="Mozzaru" revision="Evolution-X-tiramisu" />
+ <project path="device/xiaomi/markw" name="android_device_xiaomi_markw" remote="Mozzaru" revision="DerpFest-AOSP-13" />
  <project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="SonicBSV" revision="T" />
  <project path="kernel/xiaomi/markw" name="android_kernel_xiaomi_markw_new" remote="SonicBSV" revision="T" />
  
